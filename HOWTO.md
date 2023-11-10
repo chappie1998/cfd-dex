@@ -6,10 +6,7 @@ Go to any folder on a Linux or Mac OS machine:
 
 
 ```
-cargo install --git https://github.com/foundry-rs/foundry --profile local --locked forge cast chisel anvil```
-
-
-Clone the repository and build:
+cargo install --git https://github.com/foundry-rs/foundry --profile local --locked forge cast chisel anvil
 ```
 git clone https://github.com/jordan-public/cfd-dex.git
 cd cfd-dex
